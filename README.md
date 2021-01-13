@@ -1,8 +1,6 @@
 # portfolio-analysis
 PANDAS (FinTech Unit 4 HW)
 
-[Portfolio Analysis](Images/portfolio-analysis.png)
-
 ## Background
 
 Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
@@ -13,7 +11,7 @@ You need to create a tool (an analysis notebook) that analyzes and visualizes th
 
 For this homework assignment, you have three main tasks:
 
-1. Read in and Wrangle Returns Data: Prepare the Data)
+1. Read in and Wrangle Returns Data: Prepare the Data
 
 2. Determine Success of Each Portfolio: Conduct Quantitative Analysis
 
