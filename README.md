@@ -16,3 +16,5 @@ For this homework assignment, you have three main tasks:
 2. Determine Success of Each Portfolio: Conduct Quantitative Analysis
 
 3. Choose and Evaluate a Custom Portfolio: Create a Custom Portfolio
+
+Final analysis notebook is located in 'whale_analysis.ipynb'.
